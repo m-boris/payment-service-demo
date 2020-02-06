@@ -1,0 +1,10 @@
+{
+  "email": "test@mail.com",
+  "fullName": "test one",
+   "paymentMethods": [
+    {
+      "paymentMethodName": "VISA",
+      "paymentData": "43353-45645-75757-35353"
+    }
+  ]
+}
